@@ -275,6 +275,10 @@ nav {
   align-items: center;
   padding: 20px;
 }
+.map-title p {
+    width: 70%;
+    text-align: center;
+}
 .map {
   width: 800px;
   height: 200px;
@@ -432,4 +436,6 @@ font-size: 58px;
     .text-main p {
         padding: 30px;
     }
+   .map {
+     width:100%
  }
